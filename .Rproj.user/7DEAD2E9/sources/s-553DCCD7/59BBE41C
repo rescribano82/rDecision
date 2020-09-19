@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1541371343818.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "59BBE41C",
+    "lastKnownWriteTime" : 1541371220,
+    "last_content_update" : 1541371220,
+    "path" : "~/02-Estudios/201809_Economia_UNED/rLibraries/rDecision/R/rDecision.R",
+    "project_path" : "R/rDecision.R",
+    "properties" : {
+        "cursorPosition" : "3,2",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

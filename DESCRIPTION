@@ -1,0 +1,12 @@
+Package: rDecision
+Type: Package
+Title: Decision making criterias
+Version: 0.1.0
+Author: Ruben Escribano-Garcia <escribano.enginer@gmail.com>
+Maintainer: Ruben Escribano-Garcia <escribano.enginer@gmail.com>
+Description: It determines best decision based on different criterias: 
+    Laplace, optimistic, pesimistc, pesimistic, Hurwicz and Savage.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0
